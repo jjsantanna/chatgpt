@@ -1,0 +1,2 @@
+- show a timeline of events about openai and chatgpt, from creation till now
+- list tasks that chatgpt is able to do
