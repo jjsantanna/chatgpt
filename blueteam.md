@@ -1,0 +1,1 @@
+- write a KQL query that investigates anomalous behaviour of IP addresses in sign-in logs. Please add comments.
